@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "ab618f744d599efefa0bb9af",
+  "owner": "amjgaa",
+  "repo": "page-442bbcc0a86fa0c1cafb0648",
+  "title": "星舰基地(xStarship)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "442bbcc0a86fa0c1cafb0648",
+      "a": "星舰基地(xStarship)",
+      "b": "",
+      "entity": "星舰基地(xStarship)",
+      "brand": "星舰基地(xStarship)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f2fa4c26db5f41c8c96eef138adf4221f6b22924176e4947ca7b13c4d942107e",
+      "content": {
+        "keyword1": "星舰基地(xStarship)",
+        "keyword2": "",
+        "primary_entity": "星舰基地(xStarship)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "星舰基地(xStarship)提供安全便捷的网络连接方案，帮助用户实现稳定高效的在线体验。",
+          "AI_DESCRIPTION": "星舰基地(xStarship)提供安全便捷的网络连接方案，帮助用户实现稳定高效的在线体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        :root {--purple: #a855f7;--gray: #f3f4f6}\n        body {margin: 0;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;background: #fff;color: #333;line-height: 1.6}\n        .hero {height: 100vh;display: flex;align-items: center;justify-content: center;text-align: center;position: relative;overflow: hidden;color: white}\n        .hero-band {position: absolute;width: 100%;height: 50%;z-index: 1}\n        .hero-band.purple {top: 0;background: var(--purple)}\n        .hero-band.gray {top: 50%;background: var(--gray)}\n        .hero-content {position: relative;z-index: 2;max-width: 800px;padding: 0 20px}\n        .hero-content h1 {font-size: 3.8rem;margin: 0 0 0.8rem;font-weight: 700}\n        .hero-content h2 {font-size: 1.6rem;margin: 0 0 1.5rem}\n        .hero-content p {font-size: 1.25rem;margin: 0 0 2.5rem}\n        .cta {display: inline-block;background: white;color: var(--purple);padding: 14px 32px;border-radius: 6px;text-decoration: none;font-weight: 600;font-size: 1.1rem;transition: all 0.3s}\n        .cta:hover {background: #a855f7;color: white;transform: translateY(-3px)}\n        .section {padding: 5rem 0}\n        #plans {background: #f8f9fa}\n        .plans-grid {display: flex;flex-direction: column;gap: 2.5rem;max-width: 920px;margin: 0 auto}\n        .plan-card {border: 3px dashed #a855f7;border-radius: 12px;background: white;padding: 2.5rem;box-shadow: 0 10px 15px -3px rgb(168 85 247 / 0.1)}\n        .plan-card.featured {border-color: #a855f7;position: relative}\n        .plan-card.featured::after {content: \"推荐\";position: absolute;top: -14px;right: 24px;background: #a855f7;color: white;padding: 6px 16px;border-radius: 9999px;font-size: 0.85rem;font-weight: 600}\n        .plan-card h3 {font-size: 1.9rem;margin: 0 0 0.6rem}\n        .plan-card .price {font-size: 2.2rem;font-weight: 700;color: #222;margin: 0 0 0.6rem}\n        .plan-card .annual {color: #666;font-size: 0.95rem}\n        .plan-card ul {list-style: none;padding: 0;margin: 1.5rem 0}\n        .plan-card li {padding: 10px 0;border-bottom: 1px solid #eee;display: flex;align-items: flex-start}\n        .plan-card li:last-child {border-bottom: none}\n        .plan-card li::before {content: \"✓\";color: #a855f7;margin-right: 12px;flex-shrink: 0}\n        .faq-section {max-width: 820px;margin: 0 auto}\n        .faq-section h2 {text-align: center;margin-bottom: 3rem;font-size: 2.2rem}\n        details {margin-bottom: 1.8rem;border: 2px dashed #a855f7;border-radius: 10px;overflow: hidden}\n        summary {font-weight: 600;padding: 1.25rem 1.5rem;background: #fff;cursor: pointer;font-size: 1.15rem;list-style: none}\n        summary:hover {background: #f8f9fa}\n        details[open] summary {background: #f8f9fa}\n        details p {padding: 0 1.5rem 1.5rem;margin: 0;color: #555}\n        .usage-list {max-width: 620px;margin: 0 auto}\n        .usage-list li {margin-bottom: 1.4rem;padding-left: 1.8rem;position: relative}\n        .usage-list li::before {content: \"→\";position: absolute;left: 0;color: #a855f7}\n    </style><div class=\"hero\">\n        <div class=\"hero-band purple\"></div>\n        <div class=\"hero-band gray\"></div>\n        <div class=\"hero-content\">\n            <h1>星舰基地(xStarship) · 星舰基地</h1>\n            <h2>(xStarship)</h2>\n            <p>安全便捷的网络连接</p>\n            <a href=\"#plans\" class=\"cta\">查看套餐详情</a>\n        </div>\n    </div>\n\n    <section id=\"plans\" class=\"section\">\n        <h2>网络方案选择</h2>\n        <div class=\"plans-grid\">\n            <div class=\"plan-card\">\n                <h3>基础版</h3>\n                <div class=\"price\">¥15/月</div>\n                <div class=\"annual\">按年付仅需 ¥150/年</div>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"plan-card featured\">\n                <h3>旗舰版</h3>\n                <div class=\"price\">¥35/月</div>\n                <div class=\"annual\">按年付仅需 ¥350/年</div>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"plan-card\">\n                <h3>团队版</h3>\n                <div class=\"price\">¥85/月</div>\n                <div class=\"annual\">按年付仅需 ¥850/年</div>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"usage\" class=\"section\">\n        <h2>使用说明</h2>\n        <div class=\"usage-list\">\n            <ul>\n                <li>注册账号：访问官网，填写基本信息完成注册</li>\n                <li>选择方案：根据设备数量和流量需求选择对应套餐</li>\n                <li>完成支付：支持多种支付方式</li>\n                <li>连接服务：登录后选择节点并连接</li>\n            </ul>\n        </div>\n    </section>\n\n    <section id=\"faq\" class=\"faq-section\">\n        <h2>常见问题</h2>\n        <details>\n            <summary>如何注册星舰基地账户？</summary>\n            <p>请登录官网首页，点击注册按钮，输入邮箱地址并设置密码，然后完成验证即可。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备使用？</summary>\n            <p>支持电脑、手机、平板等多种设备同时在线。</p>\n        </details>\n        <details>\n            <summary>流量如何计费？</summary>\n            <p>按每月实际使用流量计费，超出部分可能影响速度。</p>\n        </details>\n        <details>\n            <summary>如何获取技术支持？</summary>\n            <p>通过官网联系客服或查看帮助中心。</p>\n        </details>\n    </section></main>",
+          "hash": "c1e39958b75e42fddc7820bec897e923f6379df321fc849f516e749825d38903",
+          "seo": {
+            "title": "星舰基地(xStarship) | 安全便捷的网络连接",
+            "keywords": "星舰基地, xStarship, 网络连接, VPN, 安全上网, 流量方案",
+            "description": "星舰基地(xStarship)提供安全便捷的网络连接方案，帮助用户实现稳定高效的在线体验。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1103",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hsh367.cn",
+    "host": "p-082d4df80f.hsh367.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e9cf0773d35be5211b64c502167d08e6b1b377d65ebd03a7833da3af23c84a1b",
+    "sitemap.xml": "b38065ca2cf75ec0a563e46228d5085a85b24a002b012b45d9b7e8bda8cd1726",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5c6fdaf42b25b61fede4a1d73b58e9db6f26b2e1a354849ca8d158cb2f632a36",
+    "robots.txt": "c6084189e531e9e1e7e0ce62b992fea20dcbb31800db7a59a3984ed6195d22a2",
+    "798306b26586c4a8d61bfa3fa8861b7f.txt": "f53de2d3987742f2e4a03cb61781637cca95de1dc75c2af3b1151bc75fb78029"
+  },
+  "revision": "f805b0ebebdc635e240be04740aeae5c05cc78dfdc04cdefbb4b972882ce0e3c"
+}
